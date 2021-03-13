@@ -9,12 +9,12 @@ Ex:
 
 Input:
 
-0 0 0 0 0 0
-0 1 1 1 0 0
-0 0 1 0 0 0
-0 1 1 1 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
+[0 0 0 0 0 0]
+[0 1 1 1 0 0]
+[0 0 1 0 0 0]
+[0 1 1 1 0 0]
+[0 0 0 0 0 0]
+[0 0 0 0 0 0]
 
 
 In this example the 1s represent the hourglass shape and the output would be
